@@ -1,0 +1,71 @@
+
+:root{
+    --color: #2196F3;
+    --black: #212121;
+    --gray: #757575;
+    --backround-color: #2F303A;
+    --white: #FFFFFF;
+    --blue:  #2196F3;
+
+
+}
+a[href="/Студія"]{
+    color: var(--color);
+}
+a[href="info@devstudio.com"]{
+    color: var(--color);
+}
+a[href="/Портфоліо"]{
+    color: var(--black);
+}
+a[href="/Конткати"]{
+    color: var(--black);
+}
+a[href="tel:+38 096 111 11 11"]{
+    color: var(--gray);
+}
+.danilo1{
+    background-color: var(--backround-color);
+}
+.danilo2{
+    color: var(--white);
+}
+.danilo3{
+ background-color: var(--blue);
+}
+.danilo3{
+    color: var(--white);
+}
+.danilo4{
+    color: var(--gray);
+}
+.danilo5{
+    color: var(--gray);
+}
+.danilo6{
+    color: var(--gray);
+}
+.danilo7{
+    color: var(--gray);
+}
+.danilo8{
+    color: var(--gray);
+}
+.danilo9{
+    color: var(--gray);
+}
+.danilo10{
+    color: var(--gray);
+}
+.danilo11{
+    color: var(--gray);
+}
+footer{
+    background-color: var(--backround-color);
+}
+a[href="info@devstudio.com"]{
+   color: var(--gray);
+}
+.danilo12{
+    color: var(--white);
+}
